@@ -6,16 +6,30 @@ The Next Word Prediction Engine project focuses on building an advanced system f
 
 #Key Highlights:
 
-Enhanced Text Comprehension: This project demonstrates a deep understanding of language patterns and context by utilizing LSTM neural networks. LSTM networks are well-suited for tasks involving sequences, making them an excellent choice for predicting the next word in a sentence.
+Enhanced Text Comprehension: 
 
-Predictive Accuracy: To achieve high predictive accuracy, the project incorporates state-of-the-art NLP techniques along with LSTM. This combination allows the model to capture complex language structures and dependencies, resulting in more precise text generation.
+This project demonstrates a deep understanding of language patterns and context by utilizing LSTM neural networks. LSTM networks are well-suited for tasks involving sequences, making them an excellent choice for predicting the next word in a sentence.
 
-User-Focused Design: The Next Word Prediction Engine is designed with the end-user in mind. The user experience is a priority, ensuring that the text completion process is seamless and intuitive. This focus on usability makes the tool accessible and valuable to a wide range of users.
+Predictive Accuracy:
+
+To achieve high predictive accuracy, the project incorporates state-of-the-art NLP techniques along with LSTM. This combination allows the model to capture complex language structures and dependencies, resulting in more precise text generation.
+
+User-Focused Design: 
+
+The Next Word Prediction Engine is designed with the end-user in mind. The user experience is a priority, ensuring that the text completion process is seamless and intuitive. This focus on usability makes the tool accessible and valuable to a wide range of users.
 
 #Future Work:
 
 As part of the project's future work, consider the following enhancements and extensions:
-Vocabulary Expansion: Continuously expand the model's vocabulary to accommodate a broader range of words and phrases, including domain-specific terminology.
-Contextual Understanding: Enhance the model's ability to understand and predict words based on context, taking into account the entire sentence or even the entire document.
-Integration: Explore integration options for the Next Word Prediction Engine into various applications, such as text editors, chatbots, or virtual assistants.
-Customization: Allow users to customize the prediction engine by training it on specific datasets or personal writing styles to provide even more accurate predictions.
+Vocabulary Expansion:
+
+Continuously expand the model's vocabulary to accommodate a broader range of words and phrases, including domain-specific terminology.
+Contextual Understanding:
+
+Enhance the model's ability to understand and predict words based on context, taking into account the entire sentence or even the entire document.
+Integration:
+
+Explore integration options for the Next Word Prediction Engine into various applications, such as text editors, chatbots, or virtual assistants.
+Customization:
+
+Allow users to customize the prediction engine by training it on specific datasets or personal writing styles to provide even more accurate predictions.
