@@ -18,6 +18,10 @@ User-Focused Design:
 
 The Next Word Prediction Engine is designed with the end-user in mind. The user experience is a priority, ensuring that the text completion process is seamless and intuitive. This focus on usability makes the tool accessible and valuable to a wide range of users.
 
+#Data Acquisition
+
+Here is the Kaggle dataset URL:- https://www.kaggle.com/datasets/gpiosenka/100-bird-species
+
 #Future Work:
 
 As part of the project's future work, consider the following enhancements and extensions:
